@@ -15,7 +15,7 @@ A repository containing data on the WIP translation of Super B-Daman: Fighting P
 * Programming - Incomplete
 * Miscellaneous - Incomplete
 
-Here is an example:
+Here is an example of the translation:
 # Original
 ![Original Title Screen](https://github.com/MorriganAensland-Hill/B-DamanENG/assets/98400773/fd05bafe-5098-487c-8a6a-e872cf53c2d9)
 # Translated
